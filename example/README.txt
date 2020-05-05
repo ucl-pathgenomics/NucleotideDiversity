@@ -10,4 +10,4 @@ grep "^sample'*'"'*' diversity.txt
 
 ### This command grep the row which starts with the word "sample". Replace the word "sample" with the first few characters of your csv file name. ###
 
-### The diversity value is in the fourth column, i.e. 0.006949492435242967 for this run. ###
+### The diversity value is in the 5th column, i.e. 0.006949492435242967 for this run. ###
